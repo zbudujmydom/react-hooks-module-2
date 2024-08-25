@@ -1,0 +1,16 @@
+.heading {
+  font-size: 40px;
+  color: red;
+}
+
+.info {
+  color: blueviolet;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.mainContainer {
+  padding: 50px;
+}
